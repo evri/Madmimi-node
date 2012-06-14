@@ -13,7 +13,7 @@
   "scripts": {
     "test": "Jody"
   },
-  "dependancies" : {
+  "dependencies" : {
     "xml2js":"0.1.14",
     "jade":"0.26.1"
   },
